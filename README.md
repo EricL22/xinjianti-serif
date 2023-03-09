@@ -3,7 +3,7 @@ A font compiled from the official Kanji lists of China, Japan, and Korea able to
 
 Characters are simplified based on a variety of factors, including their use for a semantic rather than a phonetic usage. When a character is simplified, it is treated as an analogous component applying to all cases including as an independent character, though exceptions do exist, most notably in the character 岡(冈). Nevertheless, when a component replacement occurs, it will utilize an angular form with straight-line strokes (usually the Kangxi dictionary form) rather than its modern handwritten form.
 
-Compared to previous iterations of Shinkentai, this printed form unsimplifies nearly all radicals. It also uses a 213-radical system, replacing the 214-radical precedent set by the Kangxi Dictionary. These radicals are listed below:
+Compared to previous iterations of Shinkentai, the new orthodox form unsimplifies nearly all radicals. It also uses a 213-radical system, replacing the 214-radical precedent set by the Kangxi Dictionary. These radicals are listed below:
 * __1 stroke__: 一 丨 丶 丿 乙 亅
 * __2 strokes__: 二 亠 人 儿 入 八 冂 冖 冫 几 凵 刀 力 勹 匕 匚 匸 十 卜 卩 厂 厶 又
 * __3 strokes__: 口 囗 土 士 夂 夊 夕 大 女 子 宀 寸 小 尢 尸 屮 山 巛 工 己 巾 干 幺 广 廴 廾 弋 弓 彐 彡 彳 飞
